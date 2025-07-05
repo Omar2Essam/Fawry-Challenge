@@ -38,7 +38,7 @@ var cheese = new Cheese(\"Cheese\", 100, 5, DateTime.Now.AddDays(2), 0.4);
 var biscuits = new Biscuits(\"Biscuits\", 150, 3, DateTime.Now.AddDays(3), 0.7);
 var scratchCard = new ScratchCard(\"ScratchCard\", 50, 10);
 
-var customer = new Customer(\"Ali\", 1000);
+var customer = new Customer(\"Omar\", 1000);
 var cart = new Cart();
 
 cart.Add(cheese, 2);
